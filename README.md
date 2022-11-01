@@ -1,1 +1,1 @@
-# VeriYapilariveAlgoritmalar
+# Veri Yapilari ve Algoritmalar
